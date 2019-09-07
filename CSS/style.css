@@ -9,5 +9,9 @@ body{
    padding-top: 10px;
 }
 .parceiros {
-    background-color
+    background-color:blue;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
 }
